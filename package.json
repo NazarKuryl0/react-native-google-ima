@@ -1,0 +1,32 @@
+{
+  "name": "@nazarkurylo/ima",
+  "title": "React Native Google IMA",
+  "version": "0.0.1",
+  "description": "Google IMA for React Native",
+  "summary": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarKuryl0/react-native-google-ima.git",
+    "baseUrl": "https://github.com/NazarKuryl0/react-native-google-ima"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Nazar Kurylo",
+    "email": "nazar.kurylo@globallogic.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "prop-types": "^15",
+    "react-native-video": "https://github.com/tedconf/react-native-video.git#RCTVideoDelegate"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
